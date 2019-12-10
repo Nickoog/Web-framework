@@ -6,54 +6,39 @@
       "age": 0
     },
     {
-      "name": "new record",
-      "age": 45,
+      "name": "Bill",
+      "age": 15,
       "id": 2
     },
     {
-      "name": "new record",
-      "age": 45,
+      "name": "Jill",
+      "age": 25,
       "id": 3
     },
     {
-      "name": "new record",
+      "name": "Med",
       "age": 45,
       "id": 4
     },
     {
-      "name": "new record",
-      "age": 45,
+      "name": "Thibault",
+      "age": 30,
       "id": 5
     },
     {
-      "name": "new record",
-      "age": 45,
+      "name": "Tulio",
+      "age": 35,
       "id": 6
     },
     {
-      "name": "new record",
-      "age": 45,
+      "name": "Nicolas",
+      "age": 37,
       "id": 7
     },
     {
-      "name": "new record",
-      "age": 45,
+      "name": "Alexandra",
+      "age": 28,
       "id": 8
-    },
-    {
-      "name": "NAME",
-      "age": 20,
-      "id": 9
-    },
-    {
-      "name": "NAME",
-      "age": 20,
-      "id": 10
-    },
-    {
-      "name": "Sam",
-      "age": 20,
-      "id": 11
     }
   ]
 }
